@@ -1,4 +1,4 @@
-# Nexurion's__Games
+# Nexurion's_Games
 
 This repository contains the source code of my games and website.
 
