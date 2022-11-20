@@ -1,8 +1,7 @@
 # Crazy Computer v1.0
 # Author: Alexandr -Nexurion- Drochnev.
 # Create date: 2022.11.20
-# Это простенький скрипт для защиты компьютера от детей.
-# Пишу этот скрипт, чтобы набить руку.
+# This is a simple script to protect your computer from children.
 
 import os
 import time
